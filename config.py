@@ -1,4 +1,4 @@
-token = "1878023672:AAEtb2OM3hR7_GfmwCErbwfChSHy5mTc7gg"
+token = "токен бота"
 
 start_text = '''
 😺Привет!🐶
