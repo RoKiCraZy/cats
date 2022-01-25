@@ -23,7 +23,6 @@ logging.basicConfig(format=u'[%(asctime)s] %(levelname)+8s \t\t \
 					level=logging.INFO)
 
 bot = Bot(token=token)
-#bot = Bot(token=token, proxy = "http://proxy.server:3128")
 dp = Dispatcher(bot)
 dp.middleware.setup(LoggingMiddleware())
 
